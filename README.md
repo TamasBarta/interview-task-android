@@ -41,3 +41,7 @@ Suggested:
 - Retrofit
 - Moshi
 - Room
+
+## Questions
+
+If you have questions, you can contact Tamás Barta directly on Skype: tamas.barta at interticket.net

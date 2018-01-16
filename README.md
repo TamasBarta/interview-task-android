@@ -4,7 +4,7 @@ This project is a bare minimum setup required to complete the interview test tas
 
 ## Your task
 
-Your task is to create a very simple profile editor, using the MVP pattern, with editing capabilities, persistence, and "randomization" using restful a web service.
+Your task is to create a very simple profile editor, using the MVP pattern, with editing capabilities, persistence, and "randomization" using a restful web service.
 
 ## Features
 

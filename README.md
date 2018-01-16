@@ -9,7 +9,7 @@ Your task is to create a very simple profile editor, using the MVP pattern, with
 ## Features
 
 - Display a user profile
-    - Loads from persistence
+    - Load persisted data
     - A user has:
         - Name (first and last name)
         - Age
@@ -17,7 +17,7 @@ Your task is to create a very simple profile editor, using the MVP pattern, with
     - The preferred somethings need no other information than their name
 - Edit the user profile
     - Different screen, but with editing capabilities
-    - Saves to persistence
+    - Persist the data
     - Fill from "random" data (get random data from web service)
 
 ## Other requirements

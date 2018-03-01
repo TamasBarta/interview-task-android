@@ -1,10 +1,10 @@
 # Interview Test
 
-This project is a bare minimum setup required to complete the interview test task.
+This project is a bare minimum setup required to complete the interview test task, also including additional tools for the preferred solution which you can safely ignore if you want to use other tools (e.g. you're not familiar with RxJava).
 
 ## Your task
 
-Your task is to create a very simple profile editor, using the MVP pattern, with editing capabilities, persistence, and "randomization" using a restful web service.
+Your task is to create a very simple profile editor, preferably using the MVP pattern, with editing capabilities, persistence, and "randomization" using a restful web service.
 
 ## Features
 
